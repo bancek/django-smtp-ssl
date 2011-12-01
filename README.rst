@@ -1,7 +1,7 @@
-Django Dacks
-============
+django-smtp-ssl
+===============
 
-Django hacks for faster coding.
+SMTP SSL email backend for Django
 
 Installation
 ------------
