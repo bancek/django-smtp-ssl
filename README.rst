@@ -6,7 +6,14 @@ SMTP SSL email backend for Django
 Installation
 ------------
 
-``settings.py``:
+Run
+
+::
+
+    pip install django-smtp-ssl
+
+
+and add following to your ``settings.py``:
 
 ::
 
