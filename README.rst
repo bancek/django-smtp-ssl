@@ -3,6 +3,9 @@ django-smtp-ssl
 
 SMTP SSL email backend for Django
 
+**NOTE: Django >=1.7 includes support for SMTP with SSL/TLS; hence django-smtp-ssl is obsolete.**
+
+
 Installation
 ------------
 
